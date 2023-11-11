@@ -1,4 +1,7 @@
 # SpringLv4
+
+API : https://documenter.getpostman.com/view/29710195/2s9YXk3LY7
+
 추가해야하는 기능
 원하는 기준에 따라 카테고리별 강의를 정렬하는 부분을 추가로 구현해야합니다.
 또한 강의의 카테고리를 3가지로 제한하는 기능 역시 필요합니다.
